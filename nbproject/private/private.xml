@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/web/hotdealForm.jsp</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/servlet/DeleteServlet.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/servlet/SearchServlet.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/dao/UserDAO.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/model/Voucher.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/web/search.jsp</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/web/login.jsp</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/servlet/LoginServlet.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/servlet/VoucherServlet.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/servlet/EditHotDealServlet.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/model/HotDeal.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/web/voucherForm.jsp</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/servlet/EditVoucherServlet.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/web/index.html</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/utils/DatabaseConnection.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/servlet/ChangeStatusServlet.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/web/dashboard.jsp</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/servlet/LogoutServlet.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/dao/HotDealDAO.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/servlet/HotDealServlet.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/web/editHotDeal.jsp</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/src/java/dao/VoucherDAO.java</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/web/editVoucher.jsp</file>
+            <file>file:/D:/A%20Term%204%20FPT/PRJ301/Assignment%20PRJ/VoucherHotDeal/web/dashboard.jpg</file>
+        </group>
+    </open-files>
+</project-private>
